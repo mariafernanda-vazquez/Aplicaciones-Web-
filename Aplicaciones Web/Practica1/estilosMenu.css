@@ -1,0 +1,175 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+
+.C1{
+    background: #E4C6EF;
+    height: 400;
+    width: 400; 
+    float: left;
+    position: static;
+    margin-top: 10;
+    margin-left: 100;
+    margin-right: 2;
+}
+
+.C2{
+  background: #C6E8EF;
+    height: 250;
+    width: 160px; 
+    float: left;
+    position: static;
+    margin-top: 10;
+    margin-left: 25;
+    margin-right: 25;
+
+}
+
+.C3{
+  background: #E4C6EF;
+    height: 250;
+    width: 250px; 
+    float: left;
+    position: static;
+    margin-top: 10;
+    margin-left: 2;
+    margin-right: 25;
+}
+
+  table {
+    font-family: arial, sans-serif;
+    width: 100%;
+    background-color: #C6E8EF;
+    height: 100%;
+  }
+
+  .contenedor{
+    height: 900px;
+    width: 1000;
+    overflow: auto;
+    background-color: #C6E8EF;
+  }
+  .caja {
+    background: #E4C6EF;
+    height: 450;
+    width: 450px; 
+    float: left;
+    position: static;
+    margin-top: 10;
+    margin-left: 25;
+    margin-right: 25;
+  }
+
+  .espacio {
+    background: C6E8EF;
+    height: 200;
+    width: 8px; 
+    float: left;
+    position: static;
+  }
+  .historia{
+    background: #3097ac;
+    height: 200px;
+    width: 700;
+    margin-left: 10; 
+    margin-right: 10;
+    position: static;
+  }
+  .blanco{
+    background: white;
+    position: static;
+    float: left;
+    margin-top:20;
+    text-align: center;
+  }
+  #tituloCentro{
+    text-align: center;
+
+  }
+
+  .comida{
+    background-color: #EFC6C6;
+    height: 200;
+    width: 400; 
+    position: static;
+    float: left;
+    text-align: center;
+    margin-left: 50;
+    margin-right: 40;
+  }
+
+  .foto{
+    margin-top: 40;
+    margin-left: 15;
+    border-width: 3;
+    border-color: #C6E8EF;
+    border: 8px;
+
+  }
+
+  .menuText{
+    font: arial;
+    margin-left: 70;
+  }
+
+.row{
+  display: flex;
+  text-align: center;
+}
+
+.column40{
+  width: 160;
+}
+
+.column60{
+  width: 240;
+}
+
+#blanco{
+  background-color: #C6E8EF;
+  color: white;
+}
+
+#textLeft{
+  text-align: left;
+}
+
+#fotoEstrella{
+  width: 100;
+  align-items: center;
+}
+
+#fotoDes{
+    height: 150;
+    width: 100;
+}
+
+.centerText{
+  text-align: center;
+}
+.precio{
+    margin-top: 170;
+    margin-right: 5;
+}
+
+.espacioHorizontal{
+    width: 100%;
+    background-color:#C6E8EF;
+    height: 40;
+    float: left;
+}
+
+img{
+  border: 2px solid #C6E8EF;
+  border-radius: 8px; 
+}
+
+footer{
+  background-color: #C6E8EF;
+  text-align: center;
+  width: 1000;
+}

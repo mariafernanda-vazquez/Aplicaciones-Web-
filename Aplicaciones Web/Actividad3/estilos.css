@@ -1,0 +1,89 @@
+body{
+    min-height: 100vh; 
+    background-color: #bbe4e9;
+    text-align: justify;
+}
+
+p {
+    text-indent: 80px;
+    }
+
+h1{
+    color: black;
+}
+
+h2{
+    color: #141414
+}
+
+
+#tituloVinetas{
+    font-size: 20px;
+}
+
+li{
+    text-align: justify;
+}
+
+.disc{
+    list-style-type: disc;
+}
+
+.button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+    
+}
+
+input{
+    border-radius: 4px;
+}
+
+.dosColumnas{
+        column-count: 2;
+}
+
+footer{
+    color:#ffffff; 
+    background-color: black;
+    text-align:center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+#checkbox{
+    cursor:pointer;
+}
+  
+
+
+
+
+
+
+
+
+

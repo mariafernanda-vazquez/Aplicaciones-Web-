@@ -1,0 +1,29 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+/*Herencia del padre, lo que esté en el grid, va a tener el background*/
+.grid >div{
+    background: grey ;
+}
+
+.element1{
+    grid-column: 1/4; /*La cantidad de líneas que vamos a ver*/
+}
+.element2{
+    grid-column: 1/2; /*La cantidad de líneas que vamos a ver*/
+}
+.element3{
+    grid-column: 2/4; /*La cantidad de líneas que vamos a ver*/
+}
+.element4{
+    grid-column: 1/4; /*La cantidad de líneas que vamos a ver*/
+}
+.element5{
+    grid-column: 1/4; /*La cantidad de líneas que vamos a ver*/
+}
+.element6{
+    grid-column: 1/4; /*La cantidad de líneas que vamos a ver*/
+}
